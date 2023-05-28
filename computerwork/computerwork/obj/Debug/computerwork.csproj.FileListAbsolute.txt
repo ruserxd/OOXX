@@ -1,0 +1,11 @@
+C:\Users\zxcmo\source\repos\computerwork\computerwork\bin\Debug\computerwork.exe.config
+C:\Users\zxcmo\source\repos\computerwork\computerwork\bin\Debug\computerwork.exe
+C:\Users\zxcmo\source\repos\computerwork\computerwork\bin\Debug\computerwork.pdb
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.csproj.AssemblyReference.cache
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.Form1.resources
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.Properties.Resources.resources
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.csproj.GenerateResource.cache
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.csproj.CoreCompileInputs.cache
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.exe
+C:\Users\zxcmo\source\repos\computerwork\computerwork\obj\Debug\computerwork.pdb
